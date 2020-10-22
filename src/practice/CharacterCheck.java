@@ -7,7 +7,7 @@ public class CharacterCheck {
 		char ch = '$';
 		if((ch>='a'&&ch<='z')||(ch>='A'&&ch<='Z'))
 				{
-			System.out.println("Alphabet");
+			System.out.println("An Alphabet");
 				}
 		else
 		{
